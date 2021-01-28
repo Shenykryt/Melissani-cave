@@ -1,0 +1,25 @@
+body {
+    text-align:center;
+    background-color: aqua;
+}
+
+.h {
+    font-family: cursive;
+    text-align: center;
+}
+
+.image {
+    width:600px;
+    height:450px;
+}
+
+p {
+    border:1px solid black;
+}
+
+a {
+    text-decoration: none;
+    border:1px solid black;
+    padding:5px;
+    border-radius: 5px;
+}
